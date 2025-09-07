@@ -1,4 +1,4 @@
-project-day-9
+## project-day-9
 ## YouTube Video Downloader
 
 A **Python GUI application** that allows users to download YouTube videos in multiple resolutions without requiring FFmpeg.
